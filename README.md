@@ -10,21 +10,6 @@
 
 🌱 Currently learning Spring Boot, React, and Data Structures & Algorithms
 
-## Featured Project
-
-### AI-Powered Recommendation System for an E-commerce Platform
-
-A full-stack web application that provides personalized product recommendations based on user preferences and product data.
-
-**Tech Stack**
-
-* Java
-* Spring Boot
-* React
-* MySQL
-* REST APIs
-* Git & GitHub
-
 ## Skills
 
 * Java
