@@ -4,7 +4,6 @@
 
 💻 Java | Spring Boot | React
 
-🚀 Developed an AI-Powered Recommendation System for an E-commerce Platform
 
 🔓 Open Source Contributor
 
