@@ -12,6 +12,7 @@
 ## Skills
 
 * Java
+* Python
 * Spring Boot
 * React
 * SQL
