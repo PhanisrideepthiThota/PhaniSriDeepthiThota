@@ -1,6 +1,6 @@
-# Deepthi Thota
+# PHANI SRI DEEPTHI THOTA
 
-### Aspiring Software Developer | Java • Spring Boot • Backend & Full-Stack Development
+### 
 
 I’m a Computer Science student focused on building practical software and developing strong foundations in programming, backend development, and databases. I enjoy learning by building, understanding how application components work together, and improving through hands-on projects.
 
@@ -32,7 +32,7 @@ A Python data analysis project exploring e-commerce sales and business performan
 
 - **Programming languages:** Java, Python, SQL
 - **Frameworks and libraries:** Spring Boot, React, Node.js, Express.js
-- **Databases:** MySQL, SQLite
+- **Databases:** MySQL
 - **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
 
 ## Connect
