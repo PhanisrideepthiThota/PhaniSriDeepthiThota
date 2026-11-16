@@ -5,7 +5,6 @@ I'm a computer science student interested in building practical software with **
 ## Featured projects
 
 - **[Ride Analytics Dashboard](https://github.com/PhanisrideepthiThota/ride-analytics-dashboard)** — Full-stack dashboard for exploring ride and driver data, with a React interface, Express REST API, and SQL-based analytics. [Live demo](https://ride-analytics-dashboard.vercel.app)
-- **[Parkinson Detection](https://github.com/PhanisrideepthiThota/Parkinson-Detection)** — Machine-learning project exploring Parkinson’s detection from voice and handwriting data.
 - **[E-commerce Performance Analysis](https://github.com/PhanisrideepthiThota/ecommerce-performance-analysis)** — Python analysis of sales, profit trends, customer behavior, and performance against targets.
 
 ## Skills
