@@ -1,30 +1,43 @@
-# Deepthi | Entry-Level Software Developer
+# Deepthi Thota
 
-Computer Science student and aspiring software developer seeking an **entry-level opportunity** to contribute, learn from experienced teams, and grow as an engineer. I build practical projects using Java, Spring Boot, React, Python, and SQL, with interests in backend development and data-driven applications.
+### Aspiring Software Developer | Java • Spring Boot • Backend & Full-Stack Development
+
+I’m a Computer Science student focused on building practical software and developing strong foundations in programming, backend development, and databases. I enjoy learning by building, understanding how application components work together, and improving through hands-on projects.
+
+I’m seeking an entry-level opportunity where I can contribute to a collaborative engineering team, take on meaningful challenges, and continue growing as a software developer.
 
 ## Featured projects
 
-### [Ride Analytics Dashboard](https://github.com/PhanisrideepthiThota/ride-analytics-dashboard)
-A full-stack application for exploring ride and driver data through a React dashboard, Express REST API, and SQL analytics. [View the live demo](https://ride-analytics-dashboard.vercel.app)
+### Ride Analytics Dashboard
+[Repository](https://github.com/PhanisrideepthiThota/ride-analytics-dashboard) · [Live demo](https://ride-analytics-dashboard.vercel.app)
 
-### [E-commerce Performance Analysis](https://github.com/PhanisrideepthiThota/ecommerce-performance-analysis)
-A Python data analysis project exploring sales, profitability, customer trends, and performance against targets.
+A full-stack dashboard for exploring ride and driver data through interactive views and analytics.
+
+- Built an interactive React dashboard to present ride and driver insights.
+- Implemented REST API endpoints to retrieve application data.
+- Used SQL queries to analyze ride and driver information.
+- **Technologies:** React, Vite, Node.js, Express, SQL.js, SQLite
+
+### E-commerce Performance Analysis
+[Repository](https://github.com/PhanisrideepthiThota/ecommerce-performance-analysis)
+
+A Python data analysis project exploring e-commerce sales and business performance.
+
+- Prepared and combined datasets for analysis.
+- Explored profit trends, customer behavior, and category performance.
+- Compared business performance against sales targets.
+- **Technologies:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ## Technical skills
 
-- **Languages:** Java, Python, JavaScript, SQL
-- **Frameworks:** Spring Boot, React, Node.js, Express
-- **Tools:** Git, GitHub
+- **Programming languages:** Java, Python, SQL
+- **Frameworks and libraries:** Spring Boot, React, Node.js, Express.js
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
 
-## What I bring
-
-- A strong learning mindset and willingness to take feedback
-- Hands-on practice building and explaining projects
-- Interest in writing clear, maintainable software and solving real problems
-
-## Contact
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/phani-sri-deepthi-thota-a16184291/)
-- [GitHub projects](https://github.com/PhanisrideepthiThota?tab=repositories)
+- [GitHub repositories](https://github.com/PhanisrideepthiThota?tab=repositories)
 
-I’m open to **entry-level software developer opportunities**. I look forward to contributing, learning, and growing with a team.
+**Open to entry-level software developer opportunities.**
